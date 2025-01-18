@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/AED23p2.dir/Airline.cpp.o CMakeFiles/AED23p2.dir/Airport.cpp.o CMakeFiles/AED23p2.dir/FlightManager.cpp.o CMakeFiles/AED23p2.dir/Parser.cpp.o CMakeFiles/AED23p2.dir/main.cpp.o CMakeFiles/AED23p2.dir/Menu.cpp.o -o AED23p2 
